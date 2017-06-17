@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/1ncd
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://1ncd.github.io
+  * I am 1ncd (https://keybase.io/1ncd) on keybase.
+  * I have a public key with fingerprint A468 885B 6BCF 7D6F 2084  E7CD EAE8 8D7C 18B9 1CA0
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01016807c2bbfbd672345cd80d7df1583a50657c6d5ed67822fafa5765fdca40f22a0a",
+            "fingerprint": "a468885b6bcf7d6f2084e7cdeae88d7c18b91ca0",
+            "host": "keybase.io",
+            "key_id": "eae88d7c18b91ca0",
+            "kid": "01016807c2bbfbd672345cd80d7df1583a50657c6d5ed67822fafa5765fdca40f22a0a",
+            "uid": "7bd3c5c75a2eb2524ffef1f8d845f219",
+            "username": "1ncd"
+        },
+        "service": {
+            "hostname": "1ncd.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1497721634,
+    "expire_in": 157680000,
+    "prev": "510bbbd91bbb9b3a7aa44293656a6ba1ae8f4f436e0cb3dd5afbe9220973bf82",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.72
+Comment: https://keybase.io/crypto
+
+yMIjAnicrVJZSFRRGB7NFqcFNUQo8+Ea1sMk9567DwQ+FLZQEC1QWNNZZy5Oc8c7
+d6bUAkGwKLKFNqmn9h4spQiDsGlUKpTKipaXKSLIMpK0qCiic62ghx47D+dw/v/7
+vvN9P6d3+gSfP2d3QUVHU7uczem/eTjpW7+4VmgUkE3qhWCjUEvHDxolNOGGai0i
+BAVREiXNEHUMEGKIaDqQFRUTQyQ6YZJqyFAVNVXHGlEp7xoAMMigqmsqIxgqIgMA
+ilAICMyKhakTd6yYy2WhohmGoSINYaYTjQHRUKiOCYXUMIiOJQOZEoYiJ0bshMfg
+5hBM0ErL5jV+CY3b+wf+P/tOjsvpiMhYxboKAUVABQpjlEnMIIaiMiCZHjBBnRjc
+QjlaimEi7AgIvJKyMPWG6qX4q1sZttxIEv1KE3ds18Z2lPcirhtPBD2uWx/3wFsp
+Cv2WCSErRvgUOSNFnYRlx4SgxJHYtTxdSTF1HUiarAQEui1uOTRkeQieyRD58t6h
+KS6pSiJCiJgS300kQx1CRQGmrKka1BCU+EiZwhRZoyJGMiEqZIiaAIimLiNmAMEL
+VhezhaDMbcIwl0xY4Rh0kw4VdmTSNXm+HL9v0sRc73f5/PkFf/5c2ebJPxRn5WD5
+pWfT0nPuNKPM/BM9qwbbKzoOPAy+ECpSI93zcjuLO3uGlm+7sLw1O8GtntuUKkm9
+Kl03LVq3ds/o2sjYocLo7bHWh6Vti8q6I+zyyfL0tyfEV9QgHd7QNPx847Humsrr
+XU+bX7dVXRvdC5oXHgf5q37kDZ81s5m+NU/6SzY9uLdibPDNUJd/xv3SG072yrv6
+TS+rPg4cxbPE+pGCZcVvL2ZO7n5d9r14wYcz52/dPVXYD1omb2+o6vpUsL915vu6
+vsop2sTh6sdfru7sH2hpLdw1dVn6yL5HRcHZmw8u7Qv35p7LfbDkdHvqa3Zj05x7
+X+xMR6m++tnnQDJ0+tXYEvknBo9FZA==
+=sEzV
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/1ncd
+
+==================================================================
+
